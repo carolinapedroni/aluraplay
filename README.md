@@ -5,7 +5,7 @@ AluraPlay, é uma plataforma de vídeos com um layout moderno e rico em elemento
 </p>
 
 <p align="center">
-  <img alt="projeto Alura Play" src=aluraplay.png">
+  <img alt="projeto Alura Play" src=https://github.com/carolinapedroni/aluraplay/blob/main/aluraplay.png
 </p>
 
 ## 🚀 Tecnologias
@@ -13,7 +13,7 @@ AluraPlay, é uma plataforma de vídeos com um layout moderno e rico em elemento
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
+- Flexbox
 
 ## 
 Feito com o Curso Alura pelos instrutores Vanessa Martinez Tonini e Júlio César Brito.
