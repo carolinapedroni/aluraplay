@@ -15,5 +15,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - Flexbox
 
+## 💻 Projeto
+
+- [Visite o projeto online](https://aluraplay-ruby.vercel.app/)
+
 ## 
 Feito com o Curso Alura pelo instrutor Luan Alves.
