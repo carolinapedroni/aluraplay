@@ -16,4 +16,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Flexbox
 
 ## 
-Feito com o Curso Alura pelos instrutores Vanessa Martinez Tonini e Júlio César Brito.
+Feito com o Curso Alura pelo instrutor Luan Alves.
